@@ -1,0 +1,56 @@
+/* Navbar */
+.navbar-nav li {
+  align-self: center;
+}
+
+.navbar .btn-primary {
+  background: #ff9000;
+  border: 0;
+  padding: 15px 40px 15px 40px;
+  font-size: 16px;
+  font-weight: 600;
+}
+.btn-secondary {
+  background: none;
+  border: 1px solid #bcd0e5;
+  padding: 15px 40px 15px 40px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #173a56;
+}
+
+.btn-secondary:hover {
+  background: none;
+  border: 1px solid #a3c0df;
+  color: #13344f;
+}
+
+/* Header */
+.heromain .btn-primary {
+  background: #ff9000;
+  border: 0;
+  padding: 15px 40px 15px 40px;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.heromain .btn-primary:hover {
+  background: #e98502;
+  border: 0;
+}
+
+.heromain .col {
+  align-self: center;
+}
+
+.heromain h1 {
+  font-family: "Poppins";
+  font-weight: 700;
+  color: #2f281e;
+}
+
+.heromain p {
+  font-family: "Poppins";
+  font-weight: 300;
+  color: #544837;
+}
